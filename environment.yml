@@ -43,6 +43,7 @@ dependencies:
   - invoke  # for task execution
   - pandoc  # for conversion of markdown files
   - pip >=21.2  # for native python installer
+  - openpyxl
   - pip:
     - torch
     - torch-geometric
